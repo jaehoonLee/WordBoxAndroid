@@ -1,4 +1,0 @@
-WordBoxAndroid
-==============
-
-WordBoxAndroid
